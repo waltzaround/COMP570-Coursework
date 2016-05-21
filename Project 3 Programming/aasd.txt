@@ -1,0 +1,7 @@
+.if keypressed()
+{
+> Find the key that was pressed
+	keyPressVar = the key that was pressed
+> Add it to the string
+	stringVar = stringVar + keyPressVar
+}
