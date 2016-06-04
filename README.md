@@ -1,2 +1,2 @@
 # COMP570-Coursework
-Will place course files here as soon as I can
+Some code I wrote for the COMP570 at AUT University
